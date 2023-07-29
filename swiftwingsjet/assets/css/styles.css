@@ -1,0 +1,24 @@
+.mr-5 img{
+  max-width: 30% !important;
+}
+
+.toggler-icon {
+  display: block;
+  width: 30px;
+  height: 3px;
+  background-color: #333; /* Adjust the color as needed */
+  margin: 5px 0;
+}
+
+.hero_title{
+  color: #5C0632;
+}
+.main-btn{
+  background-color:#5C0632 ;
+}
+.navbar-nav .nav-item a.active{
+  color: #5C0632;
+}
+.navbar-nav .nav-item a :hover a {
+  color: #5C0632;
+}
